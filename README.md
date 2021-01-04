@@ -9,10 +9,11 @@
 │   └───FileName.java
 └───Python
 │   └───FileName.py
-└───Name.md
+└───Docs
+    └───FileName.md
 ```
 
 ### Directory
 
-- [两数之和](001-twoSum/twoSum.md)
+- [两数之和](Docs/001-twoSum.md)
 
