@@ -7,7 +7,7 @@
 ```shell
 ├───Java
 │   └───FileName.java
-└───Python
+├───Python
 │   └───FileName.py
 └───Docs
     └───FileName.md
