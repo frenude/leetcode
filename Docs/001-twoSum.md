@@ -19,7 +19,7 @@
   
 - 时间复杂度：![](http://latex.codecogs.com/svg.latex?O(N^2)),其中 N是数组中的元素数量。最坏情况下数组中任意两个数都要被匹配一次。
 
-- 空间复杂度：$O(1)$。
+- 空间复杂度：![](http://latex.codecogs.com/svg.latex?O(1)。
 
 - 优化思路:
 
@@ -69,8 +69,8 @@
 
   - 因为查询`target-num`时间复杂度过高，考虑采用`HashMap`降低时间复杂度
   - 构建`HashMap(值,索引)`通过判断`target-num`是否在`hashMap`中,然后将 `num` 插入到哈希表中，即可保证不会让 `num` 和自己匹配
-  - 时间复杂度：$O(N)$，其中 N 是数组中的元素数量。对于每一个元素 `num`，我们可以 $O(1)$ 地寻找 `target - num`。
-  - 空间复杂度：$O(N)$，其中 N是数组中的元素数量。主要为哈希表的开销。
+  - 时间复杂度：![](http://latex.codecogs.com/svg.latex?O(N)，其中 N 是数组中的元素数量。对于每一个元素 `num`，我们可以 ![](http://latex.codecogs.com/svg.latex?O(1) 地寻找 `target - num`。
+  - 空间复杂度：![](http://latex.codecogs.com/svg.latex?O(N)，其中 N是数组中的元素数量。主要为哈希表的开销。
 
 - Python
 
