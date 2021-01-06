@@ -24,7 +24,7 @@
 
     -   因为同一元素不能使用两遍，只需要在 `num` 后面的元素中寻找 `target - num`。
 
--   [Python](Python/001-twoSum)
+-   [Python](../Python/001-twoSum)
 
     ```python
     class Solution:
