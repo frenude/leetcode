@@ -1,5 +1,3 @@
-​																																																		:back: **[返回目录](../README.md)**
-
 # [两数之和](https://leetcode-cn.com/problems/two-sum)
 
 ## 题目：
