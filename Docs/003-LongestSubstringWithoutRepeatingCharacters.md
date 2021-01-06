@@ -45,7 +45,7 @@
   - 执行用时: **520 ms**
   - 内存消耗: **14.9 MB**
 
-- [Java]((../Java/003-LongestSubstringWithoutRepeatingCharacters/SolutionByViolent.java))
+- [Java]((../Java/003-LongestSubstringWithoutRepeatingCharacters/SolutionByViolent.java)
 
   ```java
   public class Solution {
