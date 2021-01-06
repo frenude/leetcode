@@ -22,7 +22,7 @@
   
 - 时间复杂度:![](http://latex.codecogs.com/svg.latex?O(N^2))
 
-- Python
+- [Python](../Python/003-LongestSubstringWithoutRepeatingCharacters/SolutionByViolent.py)
 
   ```python
   class Solution:
@@ -45,7 +45,7 @@
   - 执行用时: **520 ms**
   - 内存消耗: **14.9 MB**
 
-- Java
+- [Java]((../Java/003-LongestSubstringWithoutRepeatingCharacters/SolutionByViolent.java))
 
   ```java
   public class Solution {
@@ -87,7 +87,7 @@
 
 - 空间复杂度：![](http://latex.codecogs.com/svg.latex?O(|\Sigma|))，其中 ![](http://latex.codecogs.com/svg.latex?\Sigma) 表示字符集（即字符串中可以出现的字符），![](http://latex.codecogs.com/svg.latex?|\Sigma|) 表示字符集的大小。
 
-- Python
+- [Python](../Python/003-LongestSubstringWithoutRepeatingCharacters/Solution.py)
 
   ```python
   class SolutionByViolent:
@@ -110,7 +110,7 @@
   - 执行用时: **80 ms**
   - 内存消耗: **15 MB**
 
-- Java
+- [Java](../Java/003-LongestSubstringWithoutRepeatingCharacters/Solution.java)
 
   ```java
   public class Solution {

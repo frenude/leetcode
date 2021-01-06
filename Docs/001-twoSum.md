@@ -40,7 +40,7 @@
     -   执行用时：**36 ms**
     -   内存消耗：**14.8 MB**
 
--   Java
+-   [Java](../Java/001-twoSum/SolutionByEnum.java)
 
     ```java
     class Solution {
@@ -62,7 +62,7 @@
     -   执行用时: **0 ms**
     -   内存消耗: **38.5 MB**
 
--   JavaScript
+-   [JavaScript](../JavaScript/001-twoSum/SolutionByEnum.js)
 
     ```javascript
     var twoSum = function (nums, target) {
@@ -89,7 +89,7 @@
     -   时间复杂度：![](http://latex.codecogs.com/svg.latex?O(N))，其中 N 是数组中的元素数量。对于每一个元素 `num`，我们可以 ![](http://latex.codecogs.com/svg.latex?O(1)) 地寻找 `target - num`。
     -   空间复杂度：![](http://latex.codecogs.com/svg.latex?O(N))，其中 N 是数组中的元素数量。主要为哈希表的开销。
 
--   Python
+-   [Python](../Python/001-twoSum/SolutionByHash.py)
 
     ```python
     class Solution:
@@ -105,7 +105,7 @@
     -   执行用时：**36 ms**
     -   内存消耗：**14.8 MB**
 
--   Java
+-   [Java](../Java/001-twoSum/SolutionByHash.java)
 
     ```java
     class Solution {
@@ -125,7 +125,7 @@
     -   执行用时：**0 ms**
     -   内存消耗：**38.5 MB**
 
--   JavaScript
+-   [JavaScript](../JavaScript/001-twoSum/SolutionByHash.js)
 
     ```javascript
     var twoSum = function (nums, target) {
@@ -142,6 +142,4 @@
 
     -   执行用时：**60 ms**
     -   内存消耗：**34.7 MB**
-
-[^返回目录]: 返回目录(../README.md)
 

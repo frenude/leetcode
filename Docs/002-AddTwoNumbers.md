@@ -23,7 +23,7 @@
 
   那就按照本意进行计算
 
-- Python
+- [Python](../Python/002-AddTwoNumbers/Solution.py)
 
   ```java
   class Solution:
@@ -107,7 +107,7 @@
 
 - 空间复杂度：![](http://latex.codecogs.com/svg.latex?O(max(m,n)))。答案链表的长度最多为较长链表的长度 ![](http://latex.codecogs.com/svg.latex?+1)。
 
-- Python
+- [Python](../Python/002-AddTwoNumbers/SolutionByCarry.py)
 
   ```python
   class Solution:
@@ -137,7 +137,7 @@
 
   - 内存消耗：**14.8 MB**
 
-- Java
+- [Java](../Java/002-AddTwoNumbers/Solution.java)
 
   ```java
   public class Solution {
@@ -173,7 +173,7 @@
   - 则进位值为(l1.val + l2.val + i) / 10
   - 建立新node，然后将进位传入下一层。
 
-- Python
+- [Python](../Python/002-AddTwoNumbers/SolutionByRecursion.py)
 
   ```python
   class Solution:
@@ -190,7 +190,7 @@
   - 执行用时：**68 ms**
   - 内存消耗：**14.8 MB**
 
-- Java
+- [Java](../Java/002-AddTwoNumbers/SolutionByRecursion.java)
 
   ```java
   class Solution {
